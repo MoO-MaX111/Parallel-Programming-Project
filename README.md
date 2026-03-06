@@ -33,7 +33,4 @@ The scraped data will be saved in a file called *books.csv*.
 
 ## Author
 
-project team
-## Author
-
-project team
+Project Team
